@@ -9,3 +9,5 @@ The report submitted is in partial fulfilment of the requirements for the degree
 Department of Chemical and Biological Engineering, Faculty of Engineering, University of Sheffield, 2024.
 
 Please download the file: Supporting documentation - Raw experimental data 
+
+Please ignore the .gitattributes file.

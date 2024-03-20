@@ -6,12 +6,6 @@ The supporting documentation within this respository contains the raw experiment
 
 The report submitted is in partial fulfilment of the requirements for the degree of Masters of Chemical Engineering.
 
-Department of Chemical and Biological Engineering.
-
-Faculty of Engineering.
-
-University of Sheffield.
-
-2024.
+Department of Chemical and Biological Engineering, Faculty of Engineering, University of Sheffield, 2024.
 
 Please download the file: Supporting documentation - Raw experimental data 
